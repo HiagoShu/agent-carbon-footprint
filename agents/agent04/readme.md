@@ -1,4 +1,4 @@
-# Guia Completo: Registro e Autorização de App no Trello com Python
+# Guia Completo: Registro e Autorização de App no Trello com Python 
 
 Este guia orienta você no processo de registrar, autorizar e usar as APIs do Trello com Python.
 
